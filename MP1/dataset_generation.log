@@ -1,0 +1,6 @@
+NetIDs ['gangmuk2'] with seed 94287829042069896616784655740632098571
+Downloading readme: 0.00B [00:00, ?B/s]Downloading readme: 6.52kB [00:00, 23.7MB/s]
+Downloading data:   0%|          | 0.00/83.9k [00:00<?, ?B/s]Downloading data: 100%|██████████| 83.9k/83.9k [00:00<00:00, 173kB/s]Downloading data: 100%|██████████| 83.9k/83.9k [00:00<00:00, 173kB/s]
+Generating test split:   0%|          | 0/164 [00:00<?, ? examples/s]Generating test split: 100%|██████████| 164/164 [00:00<00:00, 4434.41 examples/s]
+Entire Dataset saved to humaneval.jsonl
+Selected 20 problems saved to selected_humaneval_94287829042069896616784655740632098571.jsonl
